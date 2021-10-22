@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Mondwest';
+    src: url('/Assets/Fonts/Mondwest.otf') format('otf');
+  }
+
+  @font-face {
+    font-family: 'Nostrav';
+    src: url('/Assets/Fonts/Nostrav.otf') format('otf');
+    src: url('/Assets/Fonts/Nostrav.woff') format('woff');
+    src: url('/Assets/Fonts/Nostrav.woff2') format('2woff');
+  }
